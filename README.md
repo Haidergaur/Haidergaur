@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Haidergaur
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me haidergaur23@gmail.com
+- 👀 I’m CyberSecurity Engineer @HCL Technologies.
+- 
 
 <!---
 Haidergaur/Haidergaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
